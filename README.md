@@ -3,9 +3,10 @@
 I'm Temitope Ilesanmi, a frontend developer based in Lagos, Nigeria.
 
 ##🧑🏻‍💻 Technologies
-I've worked extensively with a wide range of frontend technologies, including
-- **Javascript Frameworks**: VueJs (Nuxt, Gridsome), ReactJs (NextJs)
-- **Mobile development**: Dart & Flutter
+I've worked extensively with a wide range of technologies, including
+- **Languages**: Javascript, Typescript, Dart
+- **Frontend Frameworks**: VueJs (Nuxt, Gridsome), ReactJs (NextJs)
+- **Mobile development**: Flutter
 - **CSS & Preprocessors**: CSS3, SCSS & Sass
 - **Tooling**: Webpack, Grunt, Nodejs & Npm
 - **Testing**: Cypress, Jest
