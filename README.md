@@ -1,24 +1,27 @@
 # Hi 👋
 
-I'm Temitope Ilesanmi, a frontend developer based in Lagos, Nigeria.
+I'm Temitope Ilesanmi, a software developer based in London, UK.
 
 ##🧑🏻‍💻 Technologies
 I've worked extensively with a wide range of technologies, including
-- **Languages**: Javascript, Typescript, Dart
-- **Frontend Frameworks**: VueJs (Nuxt, Gridsome), ReactJs (NextJs)
+- **Languages**: Javascript, Typescript, Dart, Python, Java
+- **Frontend Frameworks**: VueJs (inc. Nuxt, Gridsome), ReactJs (inc. NextJs)
 - **Mobile development**: Flutter
-- **CSS & Preprocessors**: CSS3, SCSS & Sass
-- **Tooling**: Webpack, Grunt, Nodejs & Npm
-- **Testing**: Cypress, Jest
+- **Tooling**: Webpack, Grunt, Nodejs & Npm, AWS, Docker, Ansible etc.
+- **Testing**: Cypress, Jest, Playwright, Pytest, etc.
 - API: REST, GraphQl
 
 ## 🔭 Experience:
 I have worked on several Products & Teams, some of which include:
 
+### Software Developer, Cloudflare ([https://www.cloudflare.com/](https://www.cloudflare.com/))
+
+### Frontend Developer, Tessian (Now Proofpoint) ([https://www.tessian.com/](https://www.tessian.com/))
+
 ### Frontend Developer, Jungle AI ([https://jungle.ai](https://jungle.ai))
 **Technologies**: VueJS, SCSS, GraphQl, NodeJs, Express, PostgreSQL, Docker
 
-I work on Jungle's flagship product: Canopy, an AI powered platform that provides predictive maintenance and performance predictions for renewable energy assets. The app involves a lot of data visualization and realtime data updates
+I worked on Jungle's flagship product: Canopy, an AI powered platform that provides predictive maintenance and performance predictions for renewable energy assets. The app involves a lot of data visualization and realtime data updates
 
 ### Frontend Engineer, Upland Software (https://uplandsoftware.com)
 **Technologies**: VueJS, SCSS, ReactJs, WCAG Accessibility standards, Webpack, Web components
